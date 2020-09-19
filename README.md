@@ -46,9 +46,17 @@ So after the reading, all the catalogues (AvailableCatalogue, OrderedCatalogue, 
 
 ### mainApp
 
-dasdasd
+In the main class the GUI is implemented along with all the functions that enable the user's interaction with the app.
 
 
+
+
+## Extra files
+
+* A folder with images that are used in the app.
+* ITEM_LIST.txt: list with the items of the store.
+* ORDER_LIST.txt: list with orders.
+* SALE_LIST.txt: list with sales.
 
 
 ## HowTo
