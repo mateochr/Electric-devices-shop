@@ -1,7 +1,18 @@
 # Electric devices shop
 An electric shop with simple GUI in Java
 
+## Classes
+
+**Item**
+
+Common variables and functions for derived classes (TV, Console, Camera etc.)
+* Maximum reuse of code
+* Polymorphism when calling common functions
+* Getters and setters
+
 ![image](https://user-images.githubusercontent.com/58492424/93671106-e9ab7880-faa8-11ea-94b8-43ee3af50a67.png)
+
+
 
 
 
