@@ -28,9 +28,28 @@ An electric shop with simple GUI in Java.
 
 
 **AvailableCatalogue** || **OrderedCatalogue** || **SoldCatalogue**
+
 * Three classes that implement the list of available items, ordered items and sold items respectivly(`ArrayList<Item>`, `ArrayList<Order>`, `ArrayList<Sale>`).
 * Getters and setters.
 * Print method.
+
+
+
+
+**StoreFileR**
+
+In this class the reading and writing of ITEM_LIST.txt, ORDER_LIST.txt, SALE_LIST.txt is implemented. This works like a database, the format of the txt files is specific.
+So after the reading, all the catalogues (AvailableCatalogue, OrderedCatalogue, SoldCatalogue) are initialized. When the app is closed the txt files are updated (e.g. new sales made).
+
+
+
+
+**mainApp**
+
+dasdasd
+
+
+
 
 ## HowTo
 Open cmd on the same folder as the .java files, first run
