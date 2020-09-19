@@ -17,22 +17,8 @@ Common variables and functions for derived classes (Order, Sale). Contains a rep
 Same properties apply as the class Item.
 
 
-<img align="left" width="300" height="150" src="https://user-images.githubusercontent.com/58492424/93671122-0942a100-faa9-11ea-972e-a48a6623dc42.png">
-<img align="right" width="450" height="250" src="https://user-images.githubusercontent.com/58492424/93671106-e9ab7880-faa8-11ea-94b8-43ee3af50a67.png">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img align="left" width="450" height="250" src="https://user-images.githubusercontent.com/58492424/93671106-e9ab7880-faa8-11ea-94b8-43ee3af50a67.png">
+<img align="right" width="250" height="200" src="https://user-images.githubusercontent.com/58492424/93671122-0942a100-faa9-11ea-972e-a48a6623dc42.png">
 
 
 
