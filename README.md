@@ -29,7 +29,7 @@ An electric shop with simple GUI in Java.
 
 ### AvailableCatalogue || OrderedCatalogue || SoldCatalogue
 
-* Three classes that implement the list of available items, ordered items and sold items respectivly(`ArrayList<Item>`, `ArrayList<Order>`, `ArrayList<Sale>`).
+* Three classes that implement the list of available items, ordered items and sold items respectivly. All of them use the ArrayList structure.
 * Getters and setters.
 * Print method.
 
