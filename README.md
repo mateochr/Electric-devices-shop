@@ -15,8 +15,7 @@ Common variables and functions for derived classes (TV, Console, Camera etc.)
 
 
 **Business**
-
-
+Common variables and functions for derived classes (Order, Sale). Contains a report for the device ordered/sold.
 
    ![image](https://user-images.githubusercontent.com/58492424/93671122-0942a100-faa9-11ea-972e-a48a6623dc42.png)
 
