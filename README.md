@@ -57,6 +57,7 @@ In the main class the GUI is implemented along with all the functions that enabl
 * ITEM_LIST.txt: list with the items of the store.
 * ORDER_LIST.txt: list with orders.
 * SALE_LIST.txt: list with sales.
+*the txt files have a specific format*
 
 
 ## HowTo
