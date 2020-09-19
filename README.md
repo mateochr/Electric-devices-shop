@@ -23,11 +23,6 @@ Same properties apply as the class Item.
 <img align="right" width="250" height="200" src="https://user-images.githubusercontent.com/58492424/93671122-0942a100-faa9-11ea-972e-a48a6623dc42.png">
 
 
-
-
-<img width="250" height="200" src="https://user-images.githubusercontent.com/58492424/93671135-19f31700-faa9-11ea-9e90-dd9144907b18.png">
-
-
 ## HowTo
 Open cmd on the same folder as the .java files, first run
 `javac mainApp.java` and then `java mainApp`
