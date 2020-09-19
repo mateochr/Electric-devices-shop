@@ -11,7 +11,7 @@ Common variables and functions for derived classes (TV, Console, Camera etc.)
 * Getters and setters
 * Print method
 
-![image](https://user-images.githubusercontent.com/58492424/93671106-e9ab7880-faa8-11ea-94b8-43ee3af50a67.png)
+![image](align="center" width="100" height="100" https://user-images.githubusercontent.com/58492424/93671106-e9ab7880-faa8-11ea-94b8-43ee3af50a67.png)
 
 
 
