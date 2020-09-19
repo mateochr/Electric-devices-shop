@@ -18,13 +18,15 @@ Same properties apply as the class Item.
 
 
 <img align="left" width="450" height="250" src="https://user-images.githubusercontent.com/58492424/93671106-e9ab7880-faa8-11ea-94b8-43ee3af50a67.png">
+
+
 <img align="right" width="250" height="200" src="https://user-images.githubusercontent.com/58492424/93671122-0942a100-faa9-11ea-972e-a48a6623dc42.png">
 
 
 
 
+<img width="250" height="200" src="https://user-images.githubusercontent.com/58492424/93671135-19f31700-faa9-11ea-9e90-dd9144907b18.png">
 
-![image](https://user-images.githubusercontent.com/58492424/93671135-19f31700-faa9-11ea-9e90-dd9144907b18.png)
 
 ## HowTo
 Open cmd on the same folder as the .java files, first run
