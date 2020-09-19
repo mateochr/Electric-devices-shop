@@ -15,13 +15,11 @@ Common variables and functions for derived classes (TV, Console, Camera etc.)
 
 
 
+
 **Business**
 
 Common variables and functions for derived classes (Order, Sale). Contains a report for the device ordered/sold.
-* Maximum reuse of code
-* Polymorphism when calling common functions
-* Getters and setters
-* Print method
+Same properties apply as the class Item.
 
    ![image](https://user-images.githubusercontent.com/58492424/93671122-0942a100-faa9-11ea-972e-a48a6623dc42.png)
 
