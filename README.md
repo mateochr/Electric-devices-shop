@@ -1,8 +1,9 @@
 # Electric devices shop
 An electric shop with simple GUI in Java.
 
-## Contributor
+## Contributors
 Alex Antoniou [@antonal01](https://github.com/antonal01)
+Mateo Chronis [@mateochr](https://github.com/mateochr)
 
 ## Classes
 
