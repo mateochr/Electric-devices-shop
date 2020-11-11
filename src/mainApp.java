@@ -32,7 +32,7 @@ import javax.swing.ImageIcon;
 import javax.swing.JButton;
 
 
-@SuppressWarnings("unused")
+
 public class mainApp
 {
 
@@ -61,19 +61,19 @@ public class mainApp
 	private static JPanel panel1; //Items panel
 	private	static JPanel panel2; //Sales panel
 	private	static JPanel panel3; //Orders panel
-	@SuppressWarnings("rawtypes")
+	
 	private	static JList listbox; //Items panel list
-	@SuppressWarnings("rawtypes")
+	
 	private static DefaultListModel listModel;	//Goes inside listbox
 	
-	@SuppressWarnings("rawtypes")
+	
 	private	static JList listbox2; //Sales panel list
-	@SuppressWarnings("rawtypes")
+	
 	private static DefaultListModel listModel2; //Goes inside listbox2
 	
-	@SuppressWarnings("rawtypes")
+	
 	private	static JList listbox3; //Orders panel list
-	@SuppressWarnings("rawtypes") 
+	
 	private static DefaultListModel listModel3; //Goes inside listbox3
 	
 	static JButton gob = new JButton("Go Back");
@@ -205,7 +205,7 @@ public class mainApp
 	
 	
 	
-	@SuppressWarnings({ "rawtypes", "unchecked" })
+	
 	//Items tab
 	public static void createItemsTab(){
 		
@@ -309,7 +309,7 @@ public class mainApp
 		
 	}
 
-	@SuppressWarnings({ "rawtypes", "unchecked" })
+	
 	public static void createSalesTab(){
 		
 		panel2 = new JPanel();
@@ -362,7 +362,7 @@ public class mainApp
 	
 	}
 	
-	@SuppressWarnings({ "unchecked", "rawtypes" })
+	
 	public static void createOrdersTab(){
 		panel3 = new JPanel();
 		
@@ -569,7 +569,7 @@ public class mainApp
 	
 	
 	
-	@SuppressWarnings({ "unchecked" })
+	
 	//Initialize the Items tab
 	public static void setItems(){
 		listModel.addElement("1.  TV's");
@@ -580,7 +580,7 @@ public class mainApp
 		listModel.addElement("6.  Washers");
 	}
 	
-	@SuppressWarnings("unchecked")
+	
 	//When the user chooses TV, Camera... this method is called to find every item of the same type that he chose
 	//and fill the list
 	public static void fillItems(String choice){
@@ -630,7 +630,7 @@ public class mainApp
 
 
 	
-	@SuppressWarnings("unchecked")
+	
 	//Sale an item
 	public static void Sale(int i){		
 		double cost = 0;
@@ -696,7 +696,7 @@ public class mainApp
 	}
 	
 	
-	@SuppressWarnings("unchecked")
+	
 	//Order an item
 	public static void Order(int i){
 		double cost = 0;
@@ -884,7 +884,7 @@ public class mainApp
 		}
 	}
 	
-	@SuppressWarnings("rawtypes")
+	
 	//Puts the search buttons in Sales and Orders panel
 	public static void putSearchButton(JPanel panel, JList list, JButton button, GridBagConstraints c){		
 		c.fill = GridBagConstraints.BOTH;
@@ -908,7 +908,7 @@ public class mainApp
 		panel.add(button, c);
 	}
 	
-	@SuppressWarnings("unchecked")
+	
 	//Called when execord button is pressed
 	public static void executeOrder(int i){
 		//If already executed
