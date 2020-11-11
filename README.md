@@ -2,7 +2,8 @@
 An electric shop with simple GUI in Java.
 
 ## Contributor
-Alex Antoniou [ @antonal01 ]
+Alex Antoniou 
+[ @antonal01 ]
 
 ## Classes
 
